@@ -1,0 +1,11 @@
+target
+.stack
+.git
+.gitignore
+Instructions.md
+pom.xml
+pom_evaluation.xml
+checkstyle.xml
+verifications.xml
+rubric.json
+rubric_results.json

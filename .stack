@@ -1,0 +1,11 @@
+{
+    "lang": "c",
+    "mvngoals": {
+        "check": "cppbuild:cppcheckstyle",
+        "clean": "clean",
+        "compile": "compile",
+        "run": "cppbuild:cppexec",
+        "runstdin": "cppbuild:cppexec",
+        "test": "test"
+    }
+}

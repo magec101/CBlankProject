@@ -1,0 +1,24 @@
+{
+    "rubric": "CBlankProject",
+    "lastSaved": "20150101 175326",
+    "weightage": {
+        "maxScore": 100,
+        "system": 100
+    },
+    "criteria": {
+        "system": [
+            {
+                "group": "system",
+                "checkType": "compile",
+                "checkName": "Compilation",
+                "visible": "eval",
+                "score": "0",
+                "penalty": "100",
+                "rule": {
+                    "warnings_ignore": [],
+                    "deprecation_ignore": []
+                }
+            }
+        ]
+    }
+}
